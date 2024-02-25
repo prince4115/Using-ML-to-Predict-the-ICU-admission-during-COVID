@@ -1,6 +1,7 @@
 Note: To run this file, you will need a Kaggle.json file that has an API token from Kaggle. You will have to upload that token in the 2nd cell. Then the program will be able run. [click here to download]([(https://drive.google.com/file/d/1DxR-pfG8j7n0INhKo0dmvo64u6915CCn/view?usp=share_link)https://drive.google.com/file/d/1DxR-pfG8j7n0INhKo0dmvo64u6915CCn/view?usp=share_link])
 
 ****Highlight of the project****
+
 **Data Imputation Strategy for ICU Admission Prediction Project**
 
 In the course of developing a machine learning model to predict ICU admission based on medical information, a significant challenge surfaced — handling missing data entries. The conventional methods such as mean, median, or average imputation proved ineffective due to the unique nature of the dataset. Each patient had five entries, and missing values were prevalent, with almost every patient having at least one entry.
